@@ -1,0 +1,118 @@
+.Topcontainer {
+  background-color: #CCF0E1;
+  position: relative;
+  padding-top: 100px;
+
+
+}
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Martel', serif;
+  color: #40514E
+}
+h1 {
+  margin:0;
+  font-family: 'Lobster', cursive;
+  color:  #66BFBF
+
+
+}
+h2{
+  font-family: 'Marck Script', cursive;
+  font-size: 2.5rem;
+  color:  #66BFBF;
+  padding-bottom: 10px;
+}
+h3{
+  font-family: 'EB Garamond', serif;
+  color:  #66BFBF
+
+}
+hr{
+  border: dotted Grey 6px;
+  width: 4%;
+  border-bottom: none;
+  margin: 100px auto;
+}
+
+.lowerC{
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+.upperC{
+  position:absolute;;
+  right:300px;
+  top: 40px;
+}
+.lion{
+  height: 10%;
+  width: 10%;
+}
+.study{
+
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.giphy{
+  width: 25%;
+  float: right;
+  margin-right: 30px;
+  margin-top: 10px;
+}
+
+.footer-link{
+  color:  #11999E;
+  padding : 20px;
+  text-decoration: none;
+}
+.footer-link:hover{
+  color: #EAF6F6
+}
+.web{
+  font-weight: normal;
+}
+.oscar{
+  line-height: 2;
+}
+.skill-row{
+ width: 50%;
+ margin: 100px auto 100px auto;
+   text-align: left;
+
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+.btn{
+  margin: 100px auto 100px auto;
+}
+.middle-container{
+  margin: 100px 0;
+}
+.intro{
+  width: 30%;
+  margin:auto;
+}
+p{
+  line-height: 2;
+}
+.Contact-msg{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.btnn{
+  background-color:#66BFBF;
+  color:#EAF6F6;
+  text-decoration: none;
+  font-family: 'EB Garamond', serif;
+}
